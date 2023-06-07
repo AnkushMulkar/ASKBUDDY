@@ -21,8 +21,8 @@ with st.sidebar:
     st.title("ASK BUDDY")
     st.markdown('''
         ### 
-    Designed By [Ankush Mulkar](https://ankushmulkar.github.io/Portfolio/)
-    ''')
+        Designed By <a href="https://ankushmulkar.github.io/Portfolio/" style="color: Cyan">Ankush Mulkar</a>
+    ''', unsafe_allow_html=True)
 
 # Session State
 if 'generated' not in st.session_state:
