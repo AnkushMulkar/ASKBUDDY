@@ -21,7 +21,7 @@ with st.sidebar:
     st.title("ASK BUDDY")
     st.markdown('''
         ### 
-    By [Ankush Mulkar](https://ankushmulkar.github.io/Portfolio/)
+    Designed By [Ankush Mulkar](https://ankushmulkar.github.io/Portfolio/)
     ''')
 
 # Session State
@@ -62,7 +62,7 @@ profile_image = crop_to_circle(profile_image)
 st.sidebar.image(profile_image, use_column_width=True)
 
 # Displaying the name below the profile image
-st.sidebar.markdown("### Ankush Mulkar")
+#st.sidebar.markdown("### Ankush Mulkar")
 
 # Bot outputs
 def generate_response(prompt):
