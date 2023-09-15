@@ -1,6 +1,6 @@
 # Ask Buddy - Streamlit Chatbot Application
 
-![Ask Buddy](ask_buddy_screenshot.png)
+![Ask Buddy](ANKUSH.jpg)
 
 ## Overview
 
@@ -12,7 +12,7 @@
 - User-friendly input interface.
 - AI-generated responses based on user prompts.
 - Circular profile image display with user name.
-- Designed by [Ankush Mulkar](https://ankushmulkar.github.io/Portfolio/).
+- Designed by [Ankush Mulkar].
 
 ## Getting Started
 
