@@ -1,6 +1,5 @@
 # Ask Buddy - Streamlit Chatbot Application
 
-![Ask Buddy](ANKUSH.jpg)
 
 ## Overview
 
